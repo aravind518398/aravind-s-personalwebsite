@@ -1,4 +1,2 @@
-# aravind-s-personalwebsite
-# aravind
-#Added a new line
-Second commit
+Fisrt commit of fetch and merge
+
